@@ -7,6 +7,7 @@
 #   K7QMX4  tele living
 #   P2WZ8A  tel R.
     U5UYW9 TV PRINCIPAL
+    FRUS7L TEL PRINCIPAL
 #
 # Para activar un equipo, agrega su línea y guarda (Commit changes). En el
 # equipo, aprieta "Ya me activaron" (puede tardar unos minutos).
