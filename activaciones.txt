@@ -1,0 +1,12 @@
+# Equipos activados de Cartón Lleno.
+#
+# Una línea por equipo: el código que muestra la app al abrirse y, si
+# quieres, un nombre corto para reconocerlo. Este archivo se ve público:
+# no pongas nombres completos ni datos personales.
+#
+#   K7QMX4  tele living
+#   P2WZ8A  tel R.
+#
+# Para activar un equipo, agrega su línea y guarda (Commit changes). En el
+# equipo, aprieta "Ya me activaron" (puede tardar unos minutos).
+# Para desactivarlo, borra su línea.
